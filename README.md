@@ -4,7 +4,7 @@ A minimalist Jeka project containing a _Jeka wrapper_ for starting working with 
 
 Using this template, you can create a Jeka project from scratch without having Jeka installed on your machine.
 
-Once the repository cloned, generaate Jeka project skeleton using command line :
+Once the repository cloned, generate a Jeka project skeleton using command line :
 * `jekaw scaffold#run` : Genarate Jeka files and folder for a simple automation project (No standard JVM Project to build).
 * `jekaw scaffold#run project#` : Generate Jeka files and folders for building a Java project.
 * `jekaw scaffold#run springboot# @dev.jeka:springboot-plugin` : Generate Jeka files and folders for building a Springboot project.
